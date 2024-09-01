@@ -1,0 +1,22 @@
+addDepartment 
+Computer_Science Information_Technology Information_Systems
+addStudentsName
+ANAS_SHAKER_MOHAMMED_BARAKI MOHAMMED_ALI_AHMAD_ALGHAMDI MAZEN_MANSOUR_HAMAD_ALJEHANI
+AHMAD_WALEED_MOHAMMED_AGEELI MESHARI_ABDUALAZIZ_ALTOURKI MOHAMMED_WADEA_OMAR_ALJOHANI
+MESHAL_ALI_MOHAMMAD_ALMOSAED GHASSAN_AHMAD_MOHAMED_SIYAMAK KHALID_ATEEQ_ABDULLAH_ALMALKI
+addAwardCriteria 
+GPA Community_Service Personality Extra-curricular_Activities Professional_Development
+addScore
+8 6 5 7 9
+7 8 6 9 6
+9 7 7 6 5
+6 7 9 5 4
+6 8 7 8 5
+3 6 8 9 6
+4 9 3 9 7
+5 5 8 7 6
+9 8 7 4 5
+printcontestDetails
+printDepartmentWinner
+printFCITWinner 
+Quit

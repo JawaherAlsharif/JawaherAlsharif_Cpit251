@@ -1,0 +1,24 @@
+
+
+***** Welcome to the College Star Winner System *****
+Computer_Science
+ANAS_SHAKER_MOHAMMED_BARAKI	8	6	5	7	9	35
+MOHAMMED_ALI_AHMAD_ALGHAMDI	7	8	6	9	6	36
+MAZEN_MANSOUR_HAMAD_ALJEHANI	9	7	7	6	5	34
+
+Information_Technology
+AHMAD_WALEED_MOHAMMED_AGEELI	6	7	9	5	4	31
+MESHARI_ABDUALAZIZ_ALTOURKI	6	8	7	8	5	34
+MOHAMMED_WADEA_OMAR_ALJOHANI	3	6	8	9	6	32
+
+Information_Systems
+MESHAL_ALI_MOHAMMAD_ALMOSAED	4	9	3	9	7	32
+GHASSAN_AHMAD_MOHAMED_SIYAMAK	5	5	8	7	6	31
+KHALID_ATEEQ_ABDULLAH_ALMALKI	9	8	7	4	5	33
+
+The winner of the Computer_Science Department is MOHAMMED_ALI_AHMAD_ALGHAMDI with total of 36
+The winner of the Information_Technology Department is MESHARI_ABDUALAZIZ_ALTOURKI with total of 34
+The winner of the Information_Systems Department is KHALID_ATEEQ_ABDULLAH_ALMALKI with total of 33
+The winner of FCIT is MOHAMMED_ALI_AHMAD_ALGHAMDI from the Computer_Science Department with total of 36
+
+	Thank you for using the College Star Winner System, Good Bye!
